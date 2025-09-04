@@ -1,0 +1,7 @@
+{
+  "name": "hubspot-serverless-clean",
+  "label": "HubSpot Serverless Clean",
+  "description": "Clean serverless functions project with correct structure",
+  "public": false,
+  "scopes": ["content"]
+}
